@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  記録時間グラフ1メモリ（1min）当たりの横幅 -->
+    <dimen name="memory_1min_length">20dp</dimen>
+
+</resources>
